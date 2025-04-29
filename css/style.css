@@ -1,0 +1,14 @@
+.api{
+   
+padding: 15px;
+border-radius: 10px;
+height: fit-content;
+    
+}
+
+.api:hover{
+    background-color: #d0d0d0;
+    cursor: pointer;
+    transition: .2s;
+    transform: scale(1.05);
+}
